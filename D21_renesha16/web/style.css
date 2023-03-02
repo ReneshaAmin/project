@@ -1,0 +1,165 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.main{
+	background-color: grey;
+	height: 700px;
+	width:700px;
+	overflow: hidden;
+	margin: auto;
+}
+.main .mid{
+	background-color:white;
+	height: 600px;
+	width: 500px;
+	margin:auto;
+	overflow: hidden;
+	margin-top: 35px;
+	position: relative;
+
+}
+.main .mid h2{
+
+	 text-align: center;
+	 margin-top: 35px;
+}
+.main .mid img:nth-child(2){
+ position: absolute;
+ left: 72px;
+ top: 93px;
+ height:23px;
+ width: 30px;
+ 
+
+
+}
+.main .mid input:nth-child(3){
+width: 340px;
+   margin-top: 30px;
+   margin-left: 70px;
+   border: 1px solid grey;
+   border-radius: 4px;
+
+
+   height: 27px;
+
+
+}
+.main .mid input:nth-child(4){
+width: 340px;
+   margin-top: 30px;
+   margin-left: 70px;
+   height: 27px;
+   display: block;
+    border: 1px solid black;
+   border-radius: 4px;
+   background-color: green;
+   color: white;
+   font-weight: bold;
+
+  }
+.main .mid h3{
+	 text-align: center;
+	 margin-top: 25px;
+}
+ .main .mid h3:before{
+	content: '';
+	border:1px solid #dbdbdb;
+	width:158px;
+	display: block;
+	position: absolute;
+	top: 215px;
+	left: 72px;
+
+}
+ .main .mid h3:after{
+	content: '';
+	border:1px solid #dbdbdb;
+	width:160px;
+	display: block;
+	position: absolute;
+	top: 215px;
+	right:75px;
+}
+.main .mid input:nth-child(7){
+
+width: 340px;
+   margin-top: 15px;
+   margin-left: 70px;
+   height: 27px;
+   display: block;
+    border: 1px solid black;
+   border-radius: 4px;
+   background-color:#4385f6;
+   color:white;
+   font-weight: bold;
+  }
+  .main .mid input:nth-child(9){
+width: 340px;
+   margin-top: 30px;
+   margin-left: 70px;
+   height: 27px;
+   display: block;
+    border: 1px solid black;
+   border-radius: 4px;
+   font-weight: bold;
+
+}
+
+.main .mid input:nth-child(12){
+width: 200px;
+   margin-top: 30px;
+   margin-left: 150px;
+   height: 30px;
+   display: block;
+    border: 1px solid grey;
+   border-radius: 6px;
+   color: green;
+   font-size: 15px;
+ 
+   font-weight: bold;
+
+  }
+  .main .mid hr{
+  	margin-top: 60px;
+  }
+  .main .mid h4{
+  	font-size: 20px;
+  	text-align: center;
+  	margin-top: 30px;
+  }
+
+.main .mid h4:before{
+	content: '';
+	border:1px solid #dbdbdb;
+	width:100px;
+	display: block;
+	position: absolute;
+	top: 462px;
+	left: 72px;
+
+}
+
+.main .mid h4:after{
+	content: '';
+	border:1px solid #dbdbdb;
+	width:100px;
+	display: block;
+	position: absolute;
+	top: 462px;
+	right: 75px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
